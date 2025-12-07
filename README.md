@@ -51,7 +51,7 @@ https://github.com/arkyork/shichinarabe
 RagAgentの作成や類似度検索の実装を通じてLangChainの基礎を学習
 https://github.com/arkyork/langchain-learn
 
-LangGraphの学習
+- LangGraphの学習
 グラフ構造を用いた知識表現と推論の基礎を学習
 https://github.com/arkyork/LangGraph-learn
 
